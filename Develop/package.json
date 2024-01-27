@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
+    "start": "nodemon server/server.js",
     "server": "",
     "build": "",
     "install": "",
@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   }
 }
