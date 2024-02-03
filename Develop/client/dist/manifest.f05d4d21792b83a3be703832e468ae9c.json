@@ -1,0 +1,10 @@
+{
+  "name": "Text Editor",
+  "short_name": "Editor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Automatically save your notes!",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
